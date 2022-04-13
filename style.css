@@ -133,10 +133,10 @@ nav{
     }
    
  .col-2 h1{
-     font-size: 50px;
+     font-size: 80px;
      line-height: 60px;
      margin: 164px 0;
-     color: white;
+     color: rgb(41, 224, 163);
      text-shadow: 4px 4px 8px #000000;
  }
  .paragraph{
